@@ -1,0 +1,1489 @@
+<meta author="[deleted]" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1277947593" decade="2010" distinguished="None" edited="False" gilded="0" id="c0t9jao" link_id="t3_ckcvq" month="07" parent_id="t1_c0t6h9d" retrieved_on="1426362600" score="1" short_name="weed" subreddit="DoesAnybodyElse" subreddit_id="t5_2r5vt" ups="1" year="2010">
+<text_id text_id="LIRC2010_c0t9jao">
+<p p="p">
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="understand">
+understand
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="easy">
+easy
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="out">
+out
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="smoke">
+smoking
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="weed">
+weed
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="q">
+<pos pos="CC">
+<lemma lemma="but">
+But
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="if">
+if
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="need">
+need
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="take">
+take
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="get">
+get
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="anxiety">
+anxiety
+</lemma>
+</pos>
+<sic sic="sic">
+<pos pos="VVG">
+<lemma lemma="lessen">
+lessoning
+</lemma>
+</pos>
+</sic>
+<pos pos="NNS">
+<lemma lemma="property">
+properties
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="then">
+then
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="at">
+at
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="trade">
+trade
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="lung">
+lung
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="health">
+health
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="q">
+<pos pos="MD">
+<lemma lemma="Will">
+Will
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="change">
+change
+</lemma>
+</pos>
+<pos pos="WP">
+<lemma lemma="who">
+who
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="q">
+<pos pos="VV">
+<lemma lemma="make">
+Make
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="RBR">
+<lemma lemma="less">
+less
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="motivate">
+motivated
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="q">
+<pos pos="VV">
+<lemma lemma="avoid">
+Avoid
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="people">
+people
+</lemma>
+</pos>
+<pos pos="WP">
+<lemma lemma="who">
+who
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="do">
+do
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="smoke">
+smoke
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="q">
+<pos pos="MD">
+<lemma lemma="Will">
+Will
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="need">
+need
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="stay">
+stay
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="high">
+high
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="order">
+order
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VH">
+<lemma lemma="have">
+have
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="anxiety">
+anxiety
+</lemma>
+</pos>
+<pos pos="VB">
+<lemma lemma="be">
+be
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="go">
+gone
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="do">
+do
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="think">
+think
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="smoke">
+smoking
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="weed">
+weed
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="answer">
+answer
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="think">
+think
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<w w="w">
+<pos pos="NN">
+<lemma lemma="behavior">
+behavior
+</lemma>
+</pos>
+<pos pos="SYM">
+<lemma lemma="/">
+/
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="thought">
+thought
+</lemma>
+</pos>
+</w>
+<pos pos="NNS">
+<lemma lemma="process">
+processes
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="modification">
+modification
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="see">
+see
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="below">
+below
+</lemma>
+</pos>
+<pos pos="IN/that">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="averse">
+averse
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="prescription">
+prescription
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="drug">
+drugs
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="get">
+get
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="so">
+so
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+am
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VHP">
+<lemma lemma="have">
+have
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="few">
+few
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="way">
+ways
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="manage">
+manage
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="my">
+my
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="crazy">
+crazy
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="life">
+life
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="exercise">
+exercise
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="point">
+point
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="mental">
+mental
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="exhaustion">
+exhaustion
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="physical">
+physical
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="ache">
+ache
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="WDT">
+<lemma lemma="that">
+That
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="achieve">
+achieves
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="goal">
+goals
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="MD">
+<lemma lemma="ca">
+ca
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="focus">
+focus
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="minor">
+minor
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="detail">
+details
+</lemma>
+</pos>
+<pos pos="WRB">
+<lemma lemma="when">
+when
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="wrap">
+wrapped
+</lemma>
+</pos>
+<pos pos="RP">
+<lemma lemma="up">
+up
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="set">
+set
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="also">
+also
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="feel">
+feel
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="good">
+good
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="hormone">
+hormones
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="release">
+released
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="huge">
+huge
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="workout">
+workout
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="set">
+set
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="my">
+my
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="brain">
+brain
+</lemma>
+</pos>
+<pos pos="RP">
+<lemma lemma="up">
+up
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="for">
+for
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="success">
+success
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="also">
+also
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="do">
+do
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="worry">
+worry
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="about">
+about
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="thing">
+things
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VHP">
+<lemma lemma="have">
+have
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="no">
+no
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="power">
+power
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="over">
+over
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="sub">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="just">
+just
+</lemma>
+</pos>
+<pos pos="MD">
+<lemma lemma="ca">
+ca
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="imp">
+<pos pos="VV">
+<lemma lemma="let">
+Let
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="go">
+go
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VHP">
+<lemma lemma="have">
+have
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="great">
+great
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="social">
+social
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="circle">
+circle
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="act">
+act
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="fool">
+fool
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="every">
+every
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="once">
+once
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="while">
+while
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+am
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="very">
+very
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="good">
+good
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="at">
+at
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="communicate">
+communicating
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="usually">
+usually
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+am
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="able">
+able
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="express">
+express
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="my">
+my
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="feeling">
+feelings
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="huge">
+huge
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="release">
+release
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="RB">
+<lemma lemma="also">
+Also
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="I">
+I
+</lemma>
+</pos>
+<pos pos="VHP">
+<lemma lemma="have">
+have
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="kiddo">
+kiddos
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="give">
+give
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="me">
+me
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="huge">
+huge
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="abundance">
+abundance
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="affirm">
+affirming
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="comment">
+comments
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="hug">
+hugs
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="they">
+they
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="force">
+force
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="me">
+me
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="play">
+play
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="intj">
+<pos pos="JJ">
+<lemma lemma="good">
+Good
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="luck">
+luck
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="imp">
+<pos pos="VVP">
+<lemma lemma="do">
+Do
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="n't">
+n't
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="let">
+let
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="anxiety">
+anxiety
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="cause">
+cause
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="anxiety">
+anxiety
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="worry">
+worrying
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="about">
+about
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="imp">
+<pos pos="VV">
+<lemma lemma="talk">
+Talk
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="professional">
+professional
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="or">
+or
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="imp">
+<pos pos="VV">
+<lemma lemma="do">
+Do
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="now">
+now
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="while">
+while
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="you">
+you
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="think">
+thinking
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+</text_id>
+</meta>
