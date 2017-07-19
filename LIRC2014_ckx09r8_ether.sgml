@@ -1,0 +1,992 @@
+<meta author="sunofabeeeyetch" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1412121914" decade="2010" distinguished="None" edited="False" gilded="0" id="ckx09r8" link_id="t3_2hslx0" month="10" parent_id="t1_ckwuhff" retrieved_on="1426745104" score="1" short_name="friend" subreddit="AskMen" subreddit_id="t5_2s30g" ups="1" year="2014">
+<text_id text_id="LIRC2014_ckx09r8">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<hi_rend hi_rend="bold">
+<pos pos="DT">
+That
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+mean
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+women
+</pos>
+<sic sic="sic">
+<pos pos="EX">
+there
+</pos>
+</sic>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="RB">
+necessarily
+</pos>
+<pos pos="VVG">
+going
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="NNS">
+friends
+</pos>
+<pos pos="IN">
+with
+</pos>
+<sic sic="sic">
+<pos pos="DT">
+a
+</pos>
+</sic>
+<pos pos="JJ">
+other
+</pos>
+<pos pos="NNS">
+women
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VHP">
+have
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</hi_rend>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="other">
+<s_type s_type="other">
+<pos pos="VVP">
+Get
+</pos>
+<pos pos="DT">
+that
+</pos>
+<pos pos="IN">
+through
+</pos>
+<pos pos="PP$">
+your
+</pos>
+<pos pos="JJ">
+numb
+</pos>
+<pos pos="NN">
+skull
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="MD">
+would
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="wh">
+<s_type s_type="wh">
+<sic sic="sic">
+<pos pos="WP">
+What
+</pos>
+</sic>
+<pos pos="MD">
+ca
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VV">
+understand
+</pos>
+<pos pos="IN">
+about
+</pos>
+<pos pos="WRB">
+how
+</pos>
+<pos pos="RB">
+sometimes
+</pos>
+<pos pos="NN">
+gender
+</pos>
+<pos pos="NNS">
+ratios
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="VVG">
+going
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="VVN">
+skewed
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+It
+</pos>
+<pos pos="VVZ">
+happens
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="JJ">
+gender-balanced
+</pos>
+<pos pos="NNS">
+environments
+</pos>
+<pos pos=",">
+,
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="RBR">
+<hi_rend hi_rend="italic">
+more
+</hi_rend>
+</pos>
+<pos pos="JJ">
+likely
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+happen
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="JJ">
+gender-dominated
+</pos>
+<pos pos="NNS">
+environments
+</pos>
+<pos pos=",">
+,
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="wh">
+<s_type s_type="wh">
+<pos pos="WP">
+what
+</pos>
+<pos pos="VVP">
+do
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VV">
+get
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+It
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="RB">
+seriously
+</pos>
+<pos pos="VVG">
+confusing
+</pos>
+<pos pos="PP">
+me
+</pos>
+<pos pos="RB">
+here
+</pos>
+<pos pos="IN">
+about
+</pos>
+<pos pos="WRB">
+how
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="MD">
+could
+</pos>
+<pos pos="RB">
+possibly
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+<hi_rend hi_rend="bold">
+possibly
+</hi_rend>
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="RB">
+so
+</pos>
+<pos pos="JJ">
+obtuse
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="JJ">
+stubborn
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="RB">
+absolutely
+</pos>
+<pos pos="JJ">
+no
+</pos>
+<pos pos="JJ">
+actual
+</pos>
+<pos pos="NN">
+argument
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+back
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="NNS">
+Women
+</pos>
+<sic sic="sic">
+<pos pos="VVP">
+exist
+</pos>
+</sic>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+no
+</pos>
+<pos pos="NN">
+argument
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VHP">
+'ve
+</pos>
+<pos pos="VVN">
+defeated
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+past
+</pos>
+<pos pos="JJ">
+many
+</pos>
+<pos pos="NNS">
+times
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+keep
+</pos>
+<pos pos="VVG">
+bringing
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<hi_rend hi_rend="bold">
+<pos pos="EX">
+There
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+no
+</pos>
+<q q="q">
+<pos pos="``">
+'
+</pos>
+<pos pos="NN">
+fem-friend
+</pos>
+<pos pos="''">
+'
+</pos>
+</q>
+<pos pos="NN">
+quota
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+woman
+</pos>
+<pos pos="MD">
+must
+</pos>
+<pos pos="VV">
+fulfill
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+decent
+</pos>
+<pos pos="NN">
+human
+</pos>
+<pos pos="NN">
+being
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</hi_rend>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<hi_rend hi_rend="bold">
+<pos pos="DT">
+A
+</pos>
+<pos pos="JJ">
+white
+</pos>
+<pos pos="NN">
+man
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VV">
+require
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+black
+</pos>
+<pos pos="NN">
+friend
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+know
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="JJ">
+black
+</pos>
+<pos pos="NNS">
+people
+</pos>
+<pos pos="VVP">
+exist
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="PP">
+he
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VV">
+require
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+black
+</pos>
+<pos pos="NN">
+friend
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="JJ">
+able
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="RB">
+least
+</pos>
+<pos pos="VV">
+listen
+</pos>
+<pos pos="RP">
+in
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="NNS">
+discussions
+</pos>
+<pos pos="IN">
+about
+</pos>
+<pos pos="JJ">
+racial
+</pos>
+<pos pos="NNS">
+tensions
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</hi_rend>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<hi_rend hi_rend="bold">
+<pos pos="RB">
+Similarly
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+woman
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VHG">
+having
+</pos>
+<pos pos="JJ">
+female
+</pos>
+<pos pos="NNS">
+friends
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="JJ">
+indicative
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="CC">
+whether
+</pos>
+<pos pos="PP">
+she
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+good
+</pos>
+<pos pos="NN">
+person
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</hi_rend>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<hi_rend hi_rend="bold">
+<pos pos="IN">
+At
+</pos>
+<pos pos="DT">
+all
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</hi_rend>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVD">
+said
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="JJ">
+many
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="JJ">
+many
+</pos>
+<pos pos="NNS">
+times
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="MD">
+'ll
+</pos>
+<pos pos="VV">
+say
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="RB">
+again
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NN">
+character
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+person
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RBR">
+more
+</pos>
+<pos pos="JJ">
+important
+</pos>
+<pos pos="WRB">
+when
+</pos>
+<pos pos="VVG">
+befriending
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="CC">
+than
+</pos>
+<pos pos="CC">
+whether
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+particular
+</pos>
+<pos pos="NN">
+group
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NN">
+compatibility
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+people
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VV">
+depend
+</pos>
+<pos pos="RB">
+entirely
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="PP$">
+their
+</pos>
+<pos pos="NN">
+race
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+gender
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+sexuality
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="JJ">
+other
+</pos>
+<pos pos="DT">
+such
+</pos>
+<pos pos="NNS">
+qualities
+</pos>
+<pos pos=":">
+;
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+hate
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+such
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+evil
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+love
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="RB">
+only
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+those
+</pos>
+<pos pos="NNS">
+qualities
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+little
+</pos>
+<pos pos="JJR">
+better
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<pos pos="VVP">
+Do
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<pos pos="PP">
+You
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="q">
+<s_type s_type="q">
+<pos pos="VV">
+Understand
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="q">
+<s_type s_type="q">
+<pos pos="UH">
+Hmm
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="q">
+<s_type s_type="q">
+<pos pos="VVP">
+Do
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
