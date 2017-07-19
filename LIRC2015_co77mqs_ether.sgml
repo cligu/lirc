@@ -1,0 +1,901 @@
+<meta author="CaptainGulliver" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1422749119" decade="2010" distinguished="None" edited="False" gilded="0" id="co77mqs" link_id="t3_2rqv7s" month="02" parent_id="t1_co74yke" retrieved_on="1424281695" score="1" short_name="computing" subreddit="pcmasterrace" subreddit_id="t5_2sgp1" ups="1" year="2015">
+<text_id text_id="LIRC2015_co77mqs">
+<p p="p">
+<s_type s_type="sub">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VV">
+think
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="VVG">
+missing
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+point
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+A
+</pos>
+<pos pos="JJ">
+conservative
+</pos>
+<pos pos="NN">
+estimate
+</pos>
+<pos pos="MD">
+would
+</pos>
+<pos pos="VV">
+put
+</pos>
+<pos pos="DT">
+this
+</pos>
+<pos pos="NN">
+generation
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+consoles
+</pos>
+<pos pos="VVG">
+selling
+</pos>
+<pos pos="CD">
+300
+</pos>
+<pos pos="NN">
+million
+</pos>
+<pos pos="NNS">
+units
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+On
+</pos>
+<pos pos="NN">
+top
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+those
+</pos>
+<pos pos="JJ">
+extra
+</pos>
+<pos pos="NNS">
+users
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VH">
+have
+</pos>
+<pos pos="NNS">
+millions
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+dollars
+</pos>
+<pos pos="VBG">
+being
+</pos>
+<pos pos="VVN">
+invested
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="VVG">
+gaming
+</pos>
+<pos pos="NN">
+industry
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="JJ">
+optimising
+</pos>
+<pos pos="NN">
+code
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="CD">
+8
+</pos>
+<pos pos="NN">
+CPU
+</pos>
+<pos pos="NNS">
+cores
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="RB">
+Not
+</pos>
+<pos pos="RB">
+only
+</pos>
+<pos pos="DT">
+that
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="RB">
+relatively
+</pos>
+<pos pos="JJ">
+weak
+</pos>
+<pos pos="NNS">
+cores
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+x86
+</pos>
+<pos pos="NNS">
+standards
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="VVG">
+working
+</pos>
+<pos pos="RB">
+hard
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="VVG">
+moving
+</pos>
+<pos pos="NNS">
+workloads
+</pos>
+<pos pos="IN">
+into
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+gpu
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+This
+</pos>
+<pos pos="VVZ">
+benefits
+</pos>
+<pos pos="NN">
+everyone
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+especially
+</pos>
+<pos pos="NN">
+pc
+</pos>
+<pos pos="NNS">
+gamers
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+On
+</pos>
+<pos pos="NN">
+top
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+this
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VVZ">
+gives
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="NN">
+exposure
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="JJR">
+more
+</pos>
+<pos pos="NN">
+people
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VVZ">
+gives
+</pos>
+<pos pos="NN">
+momentum
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+move
+</pos>
+<pos pos="IN">
+towards
+</pos>
+<pos pos="NN">
+soc
+</pos>
+<pos pos="VVN">
+based
+</pos>
+<pos pos="NN">
+computing
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="NNS">
+Gpus
+</pos>
+<pos pos="VH">
+have
+</pos>
+<pos pos="NN">
+order
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+magnitude
+</pos>
+<pos pos="JJR">
+better
+</pos>
+<pos pos="NN">
+computing
+</pos>
+<pos pos="NN">
+power
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VV">
+make
+</pos>
+<pos pos="DT">
+no
+</pos>
+<pos pos="NN">
+mistake
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="VVG">
+being
+</pos>
+<pos pos="JJ">
+able
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+offload
+</pos>
+<pos pos="JJR">
+more
+</pos>
+<pos pos="NNS">
+workloads
+</pos>
+<pos pos="IN">
+onto
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+massive
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="VVG">
+commuting
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NNS">
+libraries
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+tools
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+hacks
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NN">
+work
+</pos>
+<pos pos="NNS">
+flows
+</pos>
+<pos pos="VVD">
+developed
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+allow
+</pos>
+<pos pos="NN">
+game
+</pos>
+<pos pos="NNS">
+devs
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+optimise
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="NNS">
+apus
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NNS">
+consoles
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="JJ">
+invaluable
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+industry
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="JJ">
+worth
+</pos>
+<pos pos="NNS">
+billions
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="other">
+<pos pos="WRB">
+Why
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="NP">
+Amd
+</pos>
+<pos pos="VBZ">
+humiliates
+</pos>
+<pos pos="NP">
+Intel
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NN">
+gpu
+</pos>
+<pos pos="NN">
+computing
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="NP">
+Intel
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+good
+</pos>
+<pos pos="CD">
+5
+</pos>
+<pos pos=":">
+-
+</pos>
+<pos pos="CD">
+10
+</pos>
+<pos pos="NNS">
+years
+</pos>
+<pos pos="IN">
+behind
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NN">
+nvidia
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+This
+</pos>
+<pos pos="VVZ">
+takes
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="IN">
+from
+</pos>
+<pos pos="DT">
+an
+</pos>
+<pos pos="RB">
+also
+</pos>
+<pos pos="VBN">
+ran
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VVG">
+beating
+</pos>
+<pos pos="NP">
+Intel
+</pos>
+<pos pos="RB">
+again
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+We
+</pos>
+<pos pos="MD">
+'ll
+</pos>
+<pos pos="VV">
+see
+</pos>
+<pos pos="IN">
+if
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VV">
+get
+</pos>
+<pos pos="RP">
+away
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="JJ">
+anti
+</pos>
+<pos pos="JJ">
+competitive
+</pos>
+<pos pos="NN">
+behaviour
+</pos>
+<pos pos="RB">
+again
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="IN">
+If
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="VVG">
+selling
+</pos>
+<pos pos="NN">
+console
+</pos>
+<pos pos="NN">
+silicon
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+loss
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+which
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VV">
+have
+</pos>
+<pos pos="NNS">
+doubts
+</pos>
+<pos pos="IN">
+about
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+legitimate
+</pos>
+<pos pos="NN">
+strategy
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+loss
+</pos>
+<pos pos="NN">
+lead
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="RB">
+Especially
+</pos>
+<pos pos="IN">
+when
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="NN">
+harm
+</pos>
+<pos pos="PP$">
+your
+</pos>
+<pos pos="NN">
+brand
+</pos>
+<pos pos="NN">
+value
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="NNS">
+consoles
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VVN">
+seen
+</pos>
+<pos pos="RB">
+negatively
+</pos>
+<pos pos="IN">
+like
+</pos>
+<pos pos=":">
+$
+</pos>
+<pos pos="CD">
+100
+</pos>
+<pos pos="NNS">
+laptops
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VV">
+doubt
+</pos>
+<pos pos="NP">
+amd
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+too
+</pos>
+<pos pos="RB">
+heavily
+</pos>
+<pos pos="VVG">
+losing
+</pos>
+<pos pos="NN">
+money
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+these
+</pos>
+<pos pos="NNS">
+chips
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="VVN">
+built
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+cheap
+</pos>
+<pos pos="NN">
+process
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="JJ">
+small
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="RB">
+well
+</pos>
+<pos pos="VVD">
+understood
+</pos>
+<pos pos="NNS">
+pieces
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="JJ">
+huge
+</pos>
+<pos pos="NNS">
+numbers
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</p>
+</text_id>
+</meta>
