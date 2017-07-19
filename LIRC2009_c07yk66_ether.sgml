@@ -1,0 +1,881 @@
+<meta author="SoPoOneO" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1235872156" decade="2000" distinguished="None" edited="True" gilded="0" id="c07yk66" link_id="t3_8121c" month="03" parent_id="t1_c07yft5" retrieved_on="1425930997" score="2" short_name="technology" subreddit="technology" subreddit_id="t5_2qh16" ups="2" year="2009">
+<text_id text_id="LIRC2009_c07yk66">
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<p p="p">
+<pos pos="DT">
+Some
+</pos>
+<pos pos="RB">
+very
+</pos>
+<pos pos="JJ">
+practical
+</pos>
+<pos pos="NNS">
+issues
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="NNS">
+computers
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+standard
+</pos>
+<pos pos="NN">
+classroom
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</p>
+</s_type>
+</s_type_orig>
+<list_type list_type="ordered">
+<p p="p">
+<item_n item_n="1">
+<s_type_orig s_type_orig="sub">
+<s_type s_type="sub">
+<pos pos="PP">
+You
+</pos>
+<pos pos="CC">
+either
+</pos>
+<pos pos="VH">
+have
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VHP">
+have
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+machines
+</pos>
+<pos pos="IN">
+around
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+periphery
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+room
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="PP$">
+their
+</pos>
+<pos pos="NNS">
+screens
+</pos>
+<pos pos="VVG">
+facing
+</pos>
+<pos pos="RP">
+in
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VHP">
+have
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VHP">
+have
+</pos>
+<pos pos="PP">
+one
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+those
+</pos>
+<pos pos="NNS">
+systems
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="VVZ">
+lets
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VV">
+see
+</pos>
+<pos pos="NNS">
+thumbnails
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+every
+</pos>
+<pos pos="NN">
+screen
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+one
+</pos>
+<pos pos="NN">
+machine
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="sub">
+<s_type s_type="sub">
+<pos pos="IN">
+If
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VV">
+ca
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+see
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="VVG">
+doing
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="JJ">
+many
+</pos>
+<pos pos="NNS">
+kids
+</pos>
+<pos pos="MD">
+will
+</pos>
+<pos pos="VV">
+fuck
+</pos>
+<pos pos="RP">
+off
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</item_n>
+</p>
+<p p="p">
+<item_n item_n="2">
+<s_type_orig s_type_orig="sub">
+<s_type s_type="sub">
+<pos pos="IN">
+If
+</pos>
+<pos pos="NNS">
+teachers
+</pos>
+<pos pos="VV">
+do
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+know
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="VVG">
+doing
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+machines
+</pos>
+<pos pos="MD">
+will
+</pos>
+<pos pos="VV">
+stop
+</pos>
+<pos pos="VVG">
+working
+</pos>
+<pos pos="RB">
+very
+</pos>
+<pos pos="RB">
+fast
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+On
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+school
+</pos>
+<pos pos="NN">
+level
+</pos>
+<pos pos="NN">
+scale
+</pos>
+<pos pos="DT">
+this
+</pos>
+<pos pos="VVZ">
+means
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+need
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+dedicated
+</pos>
+<pos pos="NN">
+tech
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+go
+</pos>
+<pos pos="IN">
+around
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VVP">
+pull
+</pos>
+<pos pos="NN">
+gum
+</pos>
+<pos pos="RP">
+out
+</pos>
+<sic sic="sic">
+<pos pos="IN">
+oft
+</pos>
+</sic>
+<sic sic="sic">
+<pos pos="DT">
+he
+</pos>
+</sic>
+<pos pos="NN">
+USB
+</pos>
+<pos pos="NNS">
+jacks
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+regular
+</pos>
+<pos pos="NN">
+basis
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</item_n>
+</p>
+<p p="p">
+<item_n item_n="3">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+You
+</pos>
+<pos pos="RP">
+really
+</pos>
+<pos pos="VVP">
+need
+</pos>
+<pos pos="JJ">
+flat
+</pos>
+<pos pos="NN">
+screen
+</pos>
+<pos pos="NNS">
+monitors
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+screens
+</pos>
+<pos pos="RB">
+just
+</pos>
+<pos pos="VVZ">
+take
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="RB">
+too
+</pos>
+<pos pos="DT">
+much
+</pos>
+<pos pos="NN">
+space
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+table
+</pos>
+<pos pos="CC">
+or
+</pos>
+<pos pos="NN">
+desk
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="JJ">
+Flat
+</pos>
+<pos pos="NNS">
+screens
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="RB">
+more
+</pos>
+<pos pos="JJ">
+common
+</pos>
+<pos pos="DT">
+these
+</pos>
+<pos pos="NNS">
+days
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="RB">
+so
+</pos>
+<pos pos="JJ">
+common
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="VBG">
+being
+</pos>
+<pos pos="VVN">
+thrown
+</pos>
+<pos pos="RP">
+out
+</pos>
+<pos pos="PDT">
+all
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+time
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NNS">
+companies
+</pos>
+<pos pos="IN">
+like
+</pos>
+<pos pos="JJ">
+usable
+</pos>
+<pos pos="NNS">
+towers
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</item_n>
+</p>
+</list_type>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="CC">
+But
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+sum
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="JJ">
+another
+</pos>
+<pos pos="NN">
+level
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVP">
+agree
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="RB">
+completely
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVP">
+teach
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NP">
+Boston
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVD">
+grabbed
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+bunch
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+computers
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="VBD">
+were
+</pos>
+<pos pos="VBG">
+being
+</pos>
+<pos pos="VVN">
+thrown
+</pos>
+<pos pos="RP">
+out
+</pos>
+<pos pos="RB">
+just
+</pos>
+<pos pos="IN">
+so
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="MD">
+could
+</pos>
+<pos pos="VV">
+get
+</pos>
+<pos pos="DT">
+some
+</pos>
+<pos pos="JJ">
+extra
+</pos>
+<pos pos="NNS">
+ram
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="VV">
+set
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="PP$">
+my
+</pos>
+<pos pos="NN">
+classroom
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="NP">
+Ubuntu
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VVP">
+<hi_rend hi_rend="italics">
+use
+</hi_rend>
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="q">
+<s_type s_type="q">
+<pos pos="DT">
+Any
+</pos>
+<pos pos="NN">
+advice
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+way
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+set
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+room
+</pos>
+<pos pos="JJ">
+full
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NP">
+Ubuntu
+</pos>
+<pos pos="NNS">
+machines
+</pos>
+<pos pos="IN">
+so
+</pos>
+<pos pos="IN/that">
+that
+</pos>
+<pos pos="IN">
+from
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="PP">
+one
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="PP$">
+my
+</pos>
+<pos pos="NN">
+desk
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VV">
+decide
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="JJ">
+single
+</pos>
+<pos pos="NN">
+web
+</pos>
+<pos pos="NN">
+site
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="VVN">
+visited
+</pos>
+<pos pos="IN">
+from
+</pos>
+<pos pos="PDT">
+all
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+rest
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="q">
+<s_type s_type="q">
+<pos pos="CC">
+Or
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+way
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+view
+</pos>
+<pos pos="NNS">
+thumb-nails
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+screens
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="PDT">
+all
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+other
+</pos>
+<pos pos="NNS">
+machines
+</pos>
+<pos pos="SENT">
+?
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
