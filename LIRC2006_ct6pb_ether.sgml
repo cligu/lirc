@@ -1,0 +1,931 @@
+<meta author="[deleted]" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1164944578" decade="2000" distinguished="None" edited="False" gilded="0" id="ct6pb" link_id="t3_t4oa" month="12" parent_id="t3_t4oa" retrieved_on="1473807455" score="8" short_name="persian" stickied="False" subreddit="reddit.com" subreddit_id="t5_6" ups="8" year="2006">
+<text_id text_id="LIRC2006_ct6pb">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="NPS">
+India
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="MD">
+should
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="JJ">
+proud
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+sons
+</pos>
+<pos pos="IN">
+like
+</pos>
+<pos pos="NP">
+Hamid
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+He
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+businessman
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+But
+</pos>
+<w w="w">
+<sic sic="sic">
+<pos pos="IN">
+that
+</pos>
+<pos pos="POS">
+'s
+</pos>
+</sic>
+</w>
+<pos pos="RB">
+just
+</pos>
+<pos pos="PP$">
+his
+</pos>
+<pos pos="NN">
+profession
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="RB">
+Actually
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+he
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="VVG">
+doing
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="VVG">
+bring
+</pos>
+<pos pos="JJ">
+affordable
+</pos>
+<pos pos="NN">
+healthcare
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+millions
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="JJ">
+poor
+</pos>
+<pos pos="NNS">
+people
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NP">
+India
+</pos>
+<pos pos="IN">
+and
+</pos>
+<pos pos="JJ">
+worldwide
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+While
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+true
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="NNS">
+patents
+</pos>
+<pos pos="VVP">
+need
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="JJ">
+protected
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="VVG">
+providing
+</pos>
+<pos pos="NNS">
+incentives
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="NN">
+innovation
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="RB">
+Practically
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+patent
+</pos>
+<pos pos="NN">
+protection
+</pos>
+<pos pos="IN">
+in
+</pos>
+<sic sic="sic">
+<pos pos="NN">
+today
+</pos>
+<pos pos="POS">
+s
+</pos>
+</sic>
+<pos pos="NN">
+world
+</pos>
+<pos pos="VVZ">
+means
+</pos>
+<pos pos="VVG">
+protecting
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+unfair
+</pos>
+<pos pos="IN">
+and
+</pos>
+<pos pos="JJ">
+inhuman
+</pos>
+<pos pos="NNS">
+practices
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+Because
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+pharma
+</pos>
+<pos pos="RB">
+industry
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RP">
+so
+</pos>
+<pos pos="JJ">
+organized
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VV">
+jack
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+prices
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="RP">
+by
+</pos>
+<pos pos="RP">
+so
+</pos>
+<pos pos="DT">
+many
+</pos>
+<pos pos="NNS">
+times
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="RB">
+Most
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+new
+</pos>
+<pos pos="NNS">
+drugs
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="NN">
+produced
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="JJ">
+unorganized
+</pos>
+<pos pos="NN">
+pharma
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NN">
+university
+</pos>
+<pos pos="NNS">
+labs
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="JJ">
+small
+</pos>
+<pos pos="NN">
+r&d
+</pos>
+<pos pos="NNS">
+units
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="RB">
+again
+</pos>
+<pos pos="RB">
+mostly
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="NN">
+govt
+</pos>
+<pos pos="NN">
+funding
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+But
+</pos>
+<pos pos="NNS">
+ends
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="VHG">
+being
+</pos>
+<pos pos="NN">
+patented
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="JJ">
+big
+</pos>
+<pos pos="NNS">
+sharks
+</pos>
+<pos pos="WP">
+who
+</pos>
+<pos pos="VVP">
+use
+</pos>
+<pos pos="PP$">
+them
+</pos>
+<pos pos="IN">
+as
+</pos>
+<pos pos="NNS">
+tools
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+extract
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="RB">
+every
+</pos>
+<pos pos="JJ">
+last
+</pos>
+<pos pos="NN">
+drop
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+blood
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<sic sic="sic">
+<pos pos="JJ">
+Patent
+</pos>
+<pos pos="NN">
+system
+</pos>
+</sic>
+<pos pos="VHZ">
+has
+</pos>
+<pos pos="JJ">
+lost
+</pos>
+<pos pos="PP$">
+its
+</pos>
+<pos pos="NN">
+relevance
+</pos>
+<sic sic="sic">
+<pos pos="CC">
+because
+</pos>
+</sic>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBD">
+was
+</pos>
+<sic sic="sic">
+<pos pos="RB">
+initially
+</pos>
+</sic>
+<pos pos="NN">
+installed
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+protect
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+unorganized
+</pos>
+<pos pos="NNS">
+researchers
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+These
+</pos>
+<pos pos="JJ">
+big
+</pos>
+<pos pos="NNS">
+pharms
+</pos>
+<pos pos="MD">
+should
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="JJ">
+able
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+use
+</pos>
+<pos pos="PP$">
+their
+</pos>
+<pos pos="NNS">
+abilities
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="NN">
+market
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NN">
+manufacture
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="VVG">
+making
+</pos>
+<pos pos="NN">
+money
+</pos>
+<pos pos="IN">
+rather
+</pos>
+<pos pos="IN">
+than
+</pos>
+<pos pos="NN">
+legal
+</pos>
+<sic sic="sic">
+<pos pos="NN">
+blackmailing
+</pos>
+</sic>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="other">
+<s_type s_type="wh">
+<pos pos="WP">
+How
+</pos>
+<sic sic="sic">
+<pos pos="RB">
+also
+</pos>
+</sic>
+<pos pos="MD">
+can
+</pos>
+<pos pos="CD">
+one
+</pos>
+<pos pos="VV">
+explain
+</pos>
+<pos pos="IN">
+that
+</pos>
+<w w="s">
+<pos pos="DT">
+a
+</pos>
+</w>
+<pos pos="CD">
+one
+</pos>
+<sic sic="sic">
+<pos pos="NN">
+dollar
+</pos>
+</sic>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+day
+</pos>
+<pos pos="JJ">
+anti-Aids
+</pos>
+<pos pos="NNS">
+drugs
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="VVD">
+manufactured
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VVD">
+marketed
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+Cipla
+</pos>
+<pos pos="RB">
+profitably
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+whereas
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+Big
+</pos>
+<pos pos="NN">
+Pharma
+</pos>
+<pos pos="NNS">
+charges
+</pos>
+<w w="w">
+<sic sic="sic">
+<pos pos="IN">
+at
+</pos>
+<pos pos="DT">
+least
+</pos>
+</sic>
+</w>
+<pos pos="SYM">
+$
+</pos>
+<pos pos="CD">
+400
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type s_type="decl">
+<s_type_orig s_type_orig="decl">
+<pos pos="IN">
+Over
+</pos>
+<pos pos="CD">
+4000
+</pos>
+<pos pos="SYM">
+%
+</pos>
+<pos pos="VV">
+profit
+</pos>
+<pos pos="NNS">
+margins
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="NN">
+immoral
+</pos>
+<pos pos="RB">
+esp.
+</pos>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<pos pos="WRB">
+when
+</pos>
+<pos pos="DT">
+many
+</pos>
+<pos pos="VV">
+die
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VVG">
+getting
+</pos>
+<pos pos="PP$">
+them
+</pos>
+<pos pos="RB">
+simply
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VV">
+being
+</pos>
+<pos pos="JJ">
+able
+</pos>
+<pos pos="TO">
+to
+</pos>
+<sic sic="sic">
+<pos pos="VV">
+afford
+</pos>
+</sic>
+<pos pos="PP$">
+them
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type_orig>
+</s_type>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="sub">
+<s_type s_type="sub">
+<pos pos="IN">
+In
+</pos>
+<pos pos="DT">
+another
+</pos>
+<pos pos="NN">
+country
+</pos>
+<pos pos="NP">
+Hamid
+</pos>
+<pos pos="MD">
+would
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+Hero
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="CC">
+But
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NPS">
+India
+</pos>
+<pos pos="NNS">
+terrorists
+</pos>
+<pos pos="VV">
+become
+</pos>
+<pos pos="NPS">
+Bollywood
+</pos>
+<pos pos="NNS">
+stars
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+scamsters
+</pos>
+<pos pos="VV">
+become
+</pos>
+<pos pos="NNS">
+politicians
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+Criminals
+</pos>
+<pos pos="VV">
+run
+</pos>
+<pos pos="RB">
+sympathy
+</pos>
+<pos pos="NNS">
+campaigns
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+avoid
+</pos>
+<pos pos="VBG">
+being
+</pos>
+<pos pos="JJ">
+hanged
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+Rapists
+</pos>
+<pos pos="VVP">
+teach
+</pos>
+<pos pos="NN">
+religion
+</pos>
+<pos pos="CC">
+and
+</pos>
+<sic sic="sic">
+<pos pos="NNS">
+entrepreneurs
+</pos>
+<pos pos="VVD">
+portrayed
+</pos>
+</sic>
+<pos pos="IN">
+as
+</pos>
+<pos pos="NNS">
+Thieves
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
