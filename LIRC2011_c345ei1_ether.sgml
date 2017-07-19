@@ -1,0 +1,885 @@
+<meta author_flair_css_class="None" author_flair_text="BogleHead" controversiality="0" corpus="LIRC" created_utc="1322698272" decade="2010" distinguished="None" edited="True" gilded="0" id="c345ei1" link_id="t3_mth2o" month="12" parent_id="t1_c3457ni" retrieved_on="1427953742" score="1" short_name="market" subreddit="investing" subreddit_id="t5_2qhhq" ups="1" year="2011">
+<text_id text_id="LIRC2011_c345ei1">
+<p p="p">
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="MD">
+'ll
+</pos>
+<pos pos="VV">
+confess
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VBP">
+'m
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+novice
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="NNS">
+valuations
+</pos>
+<pos pos=":">
+...
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="RB">
+basically
+</pos>
+<pos pos="VV">
+glance
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="NN">
+P
+</pos>
+<pos pos="SYM">
+/
+</pos>
+<pos pos="NN">
+E
+</pos>
+<pos pos="RB">
+periodically
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VV">
+follow
+</pos>
+<pos pos="IN">
+along
+</pos>
+<pos pos="PP">
+with
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="PDT">
+few
+</pos>
+<pos pos="JJ">
+long-looking
+</pos>
+<pos pos="NNS">
+sages
+</pos>
+<pos pos="(">
+(
+</pos>
+e.g.
+<pos pos="NP">
+Grantham
+</pos>
+<pos pos=":">
+@
+</pos>
+<pos pos="NN">
+GMO
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="SENT">
+.
+</pos>
+<pos pos="FW">
+E.g.
+</pos>
+<pos pos="NP">
+http://online.wsj.com/mdc/public/page/2_3021-peyield.htmlandhttp://www.gmo.com/America/default.html
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NP">
+http://www.gmo.com/America/default.htm
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="JJ">
+no-pay
+</pos>
+<pos pos="NN">
+reg.
+</pos>
+<pos pos="NN">
+wall
+</pos>
+@
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+latter
+</pos>
+<pos pos=")">
+)
+</pos>
+</s_type>
+<s_type s_type="other">
+<pos pos=":">
+-
+</pos>
+<pos pos="NN">
+edit
+</pos>
+<pos pos=":">
+:
+</pos>
+<pos pos="JJ">
+just
+</pos>
+<pos pos="VVD">
+logged
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+check
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NN">
+yeah
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+GMO
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="POS">
+'s
+</pos>
+<pos pos="NN">
+worth
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="VVZ">
+thinks
+</pos>
+<pos pos="PP">
+we
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VV">
+expect
+</pos>
+<pos pos="JJ">
+about-market-average
+</pos>
+<pos pos="VVZ">
+returns
+</pos>
+<pos pos="IN">
+over
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+next
+</pos>
+<pos pos="CD">
+seven
+</pos>
+<pos pos="NNS">
+years
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="JJ">
+ex-US
+</pos>
+<pos pos="NNS">
+stocks
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="WDT">
+which
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+particularly
+</pos>
+<pos pos="JJ">
+not-bad
+</pos>
+<pos pos="VVN">
+given
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+likely
+</pos>
+<pos pos="NNS">
+returns
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="NNS">
+bonds
+</pos>
+<pos pos=":">
+;)
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NN">
+thing
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+though
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="NN">
+market-timing
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+tricky
+</pos>
+<pos pos="NN">
+business
+</pos>
+<pos pos="JJ">
+regardless
+</pos>
+<pos pos="IN">
+between
+</pos>
+<pos pos="NN">
+now
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="NN">
+then
+</pos>
+<pos pos=":">
+...
+</pos>
+</s_type>
+<s_type s_type="other">
+<pos pos="PP">
+I
+</pos>
+<pos pos="MD">
+could
+</pos>
+<pos pos="VV">
+see
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+logic
+</pos>
+<pos pos="IN">
+behind
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+tactical
+</pos>
+<pos pos="NN">
+asset
+</pos>
+<pos pos="NN">
+allocation
+</pos>
+<pos pos="DT">
+that
+</pos>
+<pos pos="VVD">
+shifted
+</pos>
+<pos pos="RB">
+somewhat
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+but
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+just
+</pos>
+<pos pos="RB">
+too
+</pos>
+<pos pos="JJ">
+easy
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="NN">
+out
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+wrong
+</pos>
+<pos pos="NN">
+time
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="RB">
+never
+</pos>
+<pos pos="VV">
+find
+</pos>
+<pos pos="DT">
+that
+</pos>
+<pos pos="``">
+'
+</pos>
+<pos pos="NN">
+entry
+</pos>
+<pos pos="NN">
+point
+</pos>
+<pos pos=""">
+'
+</pos>
+<pos pos="RB">
+again
+</pos>
+<pos pos=":">
+-
+</pos>
+</s_type>
+<s_type s_type="imp">
+<pos pos="VV">
+believe
+</pos>
+<pos pos="PP">
+me
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VV">
+know
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+lot
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+people
+</pos>
+<pos pos="WP">
+who
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="RB">
+still
+</pos>
+<pos pos="VVG">
+waiting
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VVG">
+looking
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VV">
+<hi_rend hi_rend="italics">
+need
+</hi_rend>
+</pos>
+<pos pos="IN">
+another
+</pos>
+<pos pos="NN">
+crash
+</pos>
+<pos pos="IN">
+to
+</pos>
+<pos pos="VV">
+justify
+</pos>
+<pos pos="VHG">
+having
+</pos>
+<pos pos="VBN">
+been
+</pos>
+<pos pos="IN">
+out
+</pos>
+<pos pos="PP">
+these
+</pos>
+<pos pos="RB">
+last
+</pos>
+<pos pos="JJ">
+few
+</pos>
+<pos pos="NNS">
+years
+</pos>
+<pos pos="SYM">
+:/
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NN">
+reason
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VV">
+like
+</pos>
+<pos pos="NNS">
+folks
+</pos>
+<pos pos="IN">
+like
+</pos>
+<pos pos="NP">
+Grantham
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="PP">
+he
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VVG">
+trying
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+predict
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+next
+</pos>
+<pos pos="NN">
+mood
+</pos>
+<pos pos="NN">
+swing
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+but
+</pos>
+<pos pos="RB">
+instead
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="VVG">
+looking
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+we
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VV">
+expect
+</pos>
+<pos pos="IN">
+over
+</pos>
+<pos pos="JJR">
+longer
+</pos>
+<pos pos="NNS">
+periods
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos=":">
+-
+</pos>
+<pos pos="VV">
+go
+</pos>
+<pos pos="IN">
+out
+</pos>
+<pos pos="NN">
+ten
+</pos>
+<pos pos="NNS">
+years
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="RB">
+even
+</pos>
+<pos pos="NP">
+Jack
+</pos>
+<pos pos="NP">
+Bogle
+</pos>
+<pos pos="MD">
+will
+</pos>
+<pos pos="VV">
+weight
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="NNS">
+expectations
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+but
+</pos>
+<pos pos="VVP">
+ask
+</pos>
+those
+<pos pos="NNS">
+guys
+</pos>
+<pos pos="PP">
+about
+</pos>
+<pos pos="JJ">
+next
+</pos>
+<pos pos="NN">
+month
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="PDT">
+both
+</pos>
+<pos pos="MD">
+will
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="RB">
+rightfully
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="UH">
+IMHO
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="VV">
+throw
+</pos>
+<pos pos="IN">
+up
+</pos>
+<pos pos="PP$">
+their
+</pos>
+<pos pos="NNS">
+hands
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VV">
+admit
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+do
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+know
+</pos>
+<pos pos="RB">
+any
+</pos>
+<pos pos="RBR">
+better
+</pos>
+<pos pos="IN">
+than
+</pos>
+<pos pos="NN">
+anyone
+</pos>
+<pos pos="RB">
+else
+</pos>
+<pos pos="SYM">
+;)
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="other">
+<pos pos="DT">
+The
+</pos>
+<pos pos="JJ">
+bottom
+</pos>
+<pos pos="NN">
+line
+</pos>
+<pos pos=":">
+:
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="VVZ">
+happens
+</pos>
+<pos pos="IN">
+if
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VBP">
+'re
+</pos>
+<pos pos="JJ">
+wrong
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+market
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="RB">
+never
+</pos>
+<pos pos="VVZ">
+drops
+</pos>
+<pos pos="RB">
+dramatically
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="IN">
+below
+</pos>
+<pos pos="JJ">
+current
+</pos>
+<pos pos="NNS">
+levels
+</pos>
+<pos pos="RB">
+again
+</pos>
+</hi_rend>
+<pos pos=":">
+-
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="VBP">
+'m
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos="VBG">
+betting
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="IN">
+either
+</pos>
+<pos pos="NN">
+way
+</pos>
+<pos pos=":">
+.
+</pos>
+</s_type>
+</p>
+</text_id>
+</meta>
