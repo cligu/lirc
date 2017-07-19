@@ -1,0 +1,825 @@
+<meta author="[deleted]" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1183389681" decade="2000" distinguished="None" edited="False" gilded="0" id="c22w95" link_id="t3_22vk1" month="07" parent_id="t3_22vk1" retrieved_on="1473755660" score="47" short_name="homeless" stickied="False" subreddit="reddit.com" subreddit_id="t5_6" ups="47" year="2007">
+<text_id text_id="LIRC2007_c22w95">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+I
+</pos>
+<pos pos="RB">
+currently
+</pos>
+<pos pos="VVP">
+live
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+metropolis
+</pos>
+<pos pos="WDT">
+that
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="JJ">
+downtown
+</pos>
+<pos pos="NP">
+Indianapolis
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VHN">
+'ve
+</pos>
+<pos pos="VVP">
+got
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+say
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="RB">
+while
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVP">
+feel
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+homeless
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+circumstance
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+homeless
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+choice
+</pos>
+<pos pos="VVP">
+seem
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="RB">
+much
+</pos>
+<pos pos="RBR">
+more
+</pos>
+<pos pos="JJ">
+numerous
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="NN">
+Homeless
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+circumstance
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+healthy
+</pos>
+<pos pos="NN">
+economy
+</pos>
+<pos pos="IN">
+without
+</pos>
+<pos pos="NNS">
+disasters
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="VVN">
+taken
+</pos>
+<pos pos="VV">
+care
+</pos>
+<pos pos="RP">
+of
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVP">
+think
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="IN">
+if
+</pos>
+<pos pos="RB">
+not
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="EX">
+there
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+no
+</pos>
+<pos pos="NN">
+shortage
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NNS">
+donors
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+cause
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+Those
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+choice
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="NN">
+homeless
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="PP">
+they
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="JJ">
+comfortable
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+free
+</pos>
+<pos pos="NN">
+life
+</pos>
+<pos pos="PP$">
+our
+</pos>
+<pos pos="NN">
+society
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="JJ">
+public
+</pos>
+<pos pos="NNS">
+works
+</pos>
+<pos pos="VVZ">
+provides
+</pos>
+<pos pos="PP">
+them
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="other">
+<s_type s_type="frag">
+<pos pos="VV">
+Beg
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="NN">
+change
+</pos>
+<pos pos=":">
+;
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="other">
+<s_type s_type="other">
+<pos pos="VV">
+swindle
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="JJR">
+larger
+</pos>
+<pos pos="NNS">
+bills
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VVP">
+need
+</pos>
+<pos pos="NN">
+gas
+</pos>
+<pos pos="PP">
+I
+</pos>
+<pos pos="VBP">
+'m
+</pos>
+<pos pos="IN">
+from
+</pos>
+<pos pos="IN">
+out
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+town
+</pos>
+<pos pos=":">
+--
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="DT">
+no
+</pos>
+<pos pos="NN">
+car
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NN">
+sight
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="IN">
+then
+</pos>
+<pos pos="VV">
+get
+</pos>
+<pos pos="PP">
+yourself
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+brown
+</pos>
+<pos pos="VVN">
+bagged
+</pos>
+<pos pos="NN">
+drink
+</pos>
+<pos pos="CC">
+and
+</pos>
+<sic sic="sic">
+<pos pos="VV">
+take
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+park
+</pos>
+</sic>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+Maybe
+</pos>
+<pos pos="PP$">
+their
+</pos>
+<pos pos="NN">
+leisure
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+little
+</pos>
+<pos pos="JJR">
+worse
+</pos>
+<pos pos="IN">
+than
+</pos>
+<pos pos="NN">
+that
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="PP">
+you
+</pos>
+<w w="w">
+<pos pos="VVP">
+can
+</pos>
+<pos pos="RB">
+not
+</pos>
+</w>
+<pos pos="VVP">
+walk
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+mile
+</pos>
+<pos pos="IN">
+in
+</pos>
+this
+<pos pos="JJ">
+little
+</pos>
+<pos pos="NN">
+city
+</pos>
+<pos pos="IN">
+without
+</pos>
+finding
+<pos pos="DT">
+an
+</pos>
+empty
+brown
+bagged
+<pos pos="CD">
+40
+</pos>
+next
+<pos pos="TO">
+to
+</pos>
+some
+<pos pos="NNS">
+blankets
+</pos>
+<pos pos="CC">
+and
+</pos>
+some
+other
+<pos pos="NN">
+garbage
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+homeless
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+choice
+</pos>
+tend
+<pos pos="TO">
+to
+</pos>
+be
+pretty
+<pos pos="JJ">
+creepy
+</pos>
+<pos pos=",">
+,
+</pos>
+bring
+down
+property
+<pos pos="NNS">
+values
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+are
+<pos pos="DT">
+a
+</pos>
+public
+<pos pos="NN">
+nuisance
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="sub">
+Of
+course
+<pos pos=",">
+,
+</pos>
+one
+must
+feel
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+the
+</pos>
+homeless
+<pos pos="IN">
+by
+</pos>
+<pos pos="NN">
+circumstance
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+Here
+'s
+<pos pos="NN">
+something
+</pos>
+<pos pos="TO">
+to
+</pos>
+get
+<pos pos="JJ">
+angry
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos=":">
+:
+</pos>
+<pos pos="NN">
+people
+</pos>
+convicted
+<pos pos="IN">
+of
+</pos>
+felony
+<hi_rend hi_rend="italics">
+drug
+</hi_rend>
+<pos pos="NNS">
+offenses
+</pos>
+after
+<pos pos="CD">
+<date_when date_when="1996">
+1996
+</date_when>
+</pos>
+are
+ineligible
+<pos pos="IN">
+for
+</pos>
+<pos pos="NN">
+food
+</pos>
+<pos pos="NNS">
+stamps
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+So
+<pos pos=",">
+,
+</pos>
+let
+'s
+say
+<pos pos="DT">
+a
+</pos>
+drug
+<pos pos="NN">
+addict
+</pos>
+goes
+<pos pos="TO">
+to
+</pos>
+<pos pos="NN">
+jail
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="VVZ">
+cleans
+</pos>
+<pos pos="RP">
+up
+</pos>
+there
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+but
+</pos>
+<pos pos="VVZ">
+ca
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+find
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+job
+</pos>
+<pos pos="CC">
+and
+</pos>
+<pos pos="VVZ">
+ca
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+feed
+</pos>
+<pos pos="PP">
+themselves
+</pos>
+<pos pos=":">
+--
+</pos>
+<pos pos="VVZ">
+ca
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+get
+</pos>
+<pos pos="JJ">
+public
+</pos>
+<pos pos="NN">
+assistance
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+food
+</hi_rend>
+</pos>
+<pos pos="SENT">
+!
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="imp">
+<pos pos="VV">
+Note
+</pos>
+<pos pos="IN">
+that
+</pos>
+<pos pos="NN">
+felony
+</pos>
+<pos pos="NN">
+child
+</pos>
+<pos pos="NNS">
+molesters
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NNS">
+rapists
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="CC">
+and
+</pos>
+armed
+<pos pos="NNS">
+robbers
+</pos>
+are
+eligible
+where
+people
+who
+got
+caught
+getting
+high
+<pos pos="CC">
+or
+</pos>
+<pos pos="VVG">
+selling
+</pos>
+<pos pos="NNS">
+drugs
+</pos>
+are
+<pos pos="RB">
+not
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="imp">
+<s_type s_type="other">
+<pos pos="TO">
+To
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+streets
+</pos>
+<pos pos="NPS">
+redditors
+</pos>
+<pos pos="SENT">
+!
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
