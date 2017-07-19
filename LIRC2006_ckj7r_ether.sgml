@@ -1,0 +1,983 @@
+<meta author="rfisher" author_flair_css_class="None" author_flair_text="None" controversiality="0" corpus="LIRC" created_utc="1159798718" decade="2000" distinguished="None" edited="False" gilded="0" id="ckj7r" link_id="t3_khr1" month="10" parent_id="t3_khr1" retrieved_on="1473801075" score="3" short_name="compression" stickied="False" subreddit="reddit.com" subreddit_id="t5_6" ups="3" year="2006">
+<text_id text_id="LIRC2006_ckj7r">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+While
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+compression
+</hi_rend>
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+certainly
+</pos>
+<pos pos="NN">
+jargon
+</pos>
+<pos pos="WDT">
+that
+</pos>
+<pos pos="VVZ">
+needs
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VB">
+be
+</pos>
+<pos pos="VVN">
+explained
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+an
+</pos>
+<pos pos="NN">
+article
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+general
+</pos>
+<pos pos="NN">
+audience
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="VVG">
+using
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+loudness
+</hi_rend>
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+just
+</pos>
+<pos pos="RB">
+as
+</pos>
+<pos pos="JJ">
+bad
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="(">
+(
+</pos>
+<pos pos="SYM">
+&
+</pos>
+<pos pos="DT">
+this
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+only
+</pos>
+<pos pos="NN">
+article
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+make
+</pos>
+<pos pos="DT">
+that
+</pos>
+<pos pos="NN">
+mistake
+</pos>
+<pos pos=")">
+)
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="RBR">
+Worse
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="IN">
+at
+</pos>
+<pos pos="JJS">
+least
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+jargon
+</pos>
+<pos pos="NN">
+word
+</pos>
+<pos pos="VVZ">
+means
+</pos>
+<pos pos="WP">
+what
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+want
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+mean
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+specific
+</pos>
+<pos pos="NN">
+context
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="VVG">
+Using
+</pos>
+<pos pos="JJ">
+<hi_rend hi_rend="italics">
+loud
+</hi_rend>
+</pos>
+<pos pos="VVZ">
+is
+</pos>
+<pos pos="RB">
+just
+</pos>
+<pos pos="JJ">
+misleading
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="IN">
+In
+</pos>
+<pos pos="DT">
+this
+</pos>
+<pos pos="NN">
+context
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+compression
+</hi_rend>
+</pos>
+<pos pos="VVZ">
+means
+</pos>
+<pos pos="VVG">
+making
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+entire
+</pos>
+<pos pos="NN">
+song
+</pos>
+<pos pos="RB">
+equally
+</pos>
+<pos pos="JJ">
+loud
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+This
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="VVN">
+done
+</pos>
+<pos pos="IN">
+by
+</pos>
+<pos pos="VVG">
+boosting
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+loudness
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<sic sic="sic">
+<pos pos="JJ">
+quite
+</pos>
+</sic>
+<pos pos="NNS">
+parts
+</pos>
+<pos pos="SYM">
+&
+</pos>
+<pos pos="VVG">
+cutting
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+loudness
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+loud
+</pos>
+<pos pos="NNS">
+parts
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="(">
+(
+</pos>
+<pos pos="RB">
+Although
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+typically
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+do
+</pos>
+<pos pos="JJR">
+more
+</pos>
+<pos pos="VVG">
+boosting
+</pos>
+<pos pos="IN">
+than
+</pos>
+<pos pos="VVG">
+cutting
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+The
+</pos>
+<pos pos="NN">
+difference
+</pos>
+<pos pos="VVZ">
+is
+</pos>
+<pos pos="JJ">
+immaterial
+</pos>
+<pos pos="IN">
+unless
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+want
+</pos>
+<pos pos="DT">
+to
+</pos>
+<pos pos="VV">
+discuss
+</pos>
+<pos pos="JJ">
+other
+</pos>
+<pos pos="JJ">
+technical
+</pos>
+<pos pos="NNS">
+issues
+</pos>
+<pos pos="JJ">
+like
+</pos>
+<pos pos="NN">
+signal-to-noise
+</pos>
+<pos pos="NNS">
+ratios
+</pos>
+<pos pos="SENT">
+.
+</pos>
+<pos pos=")">
+)
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="PP">
+It
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="VVN">
+called
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+compression
+</hi_rend>
+</pos>
+<pos pos="IN">
+because
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VBP">
+are
+</pos>
+<pos pos="VVG">
+compressing
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NNS">
+changes
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="NN">
+loudness
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="other">
+<s_type s_type="frag">
+<pos pos="(">
+(
+</pos>
+<pos pos="CC">
+Or
+</pos>
+<pos pos=",">
+,
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="JJ">
+dynamic
+</pos>
+<pos pos="NN">
+range
+</pos>
+</hi_rend>
+<pos pos=",">
+,
+</pos>
+<pos pos="IN">
+if
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="VVP">
+want
+</pos>
+<pos pos="RBR">
+more
+</pos>
+<pos pos="JJ">
+technical
+</pos>
+<pos pos="NNS">
+terms
+</pos>
+<pos pos="SENT">
+.
+</pos>
+<pos pos=")">
+)
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="RB">
+BTW
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+compression
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="VVN">
+combined
+</pos>
+<pos pos="IN">
+with
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+gate
+</hi_rend>
+</pos>
+<pos pos="WDT">
+that
+</pos>
+<pos pos="VVZ">
+determines
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+threshold
+</pos>
+<pos pos="IN">
+between
+</pos>
+<pos pos="NN">
+background
+</pos>
+<pos pos="NN">
+noise
+</pos>
+<pos pos="CC">
+&
+</pos>
+<pos pos="NN">
+music
+</pos>
+<pos pos="(">
+(
+</pos>
+<pos pos="RB">
+technically
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="NN">
+<hi_rend hi_rend="italics">
+signal
+</hi_rend>
+</pos>
+<pos pos=")">
+)
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+That
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="WRB">
+why
+</pos>
+<pos pos="NN">
+compression
+</pos>
+<pos pos="VVZ">
+does
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="VV">
+end
+</pos>
+<pos pos="RP">
+up
+</pos>
+<pos pos="VVG">
+boosting
+</pos>
+<pos pos="JJ">
+static
+</pos>
+<pos pos="CC">
+&
+</pos>
+<pos pos="JJ">
+other
+</pos>
+<pos pos="NN">
+noise
+</pos>
+<pos pos="WRB">
+whenever
+</pos>
+<pos pos="EX">
+there
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+moment
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="JJ">
+complete
+</pos>
+<pos pos="NN">
+silence
+</pos>
+<pos pos="IN">
+in
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+song
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="NN">
+Compression
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+n't
+</pos>
+<pos pos="RB">
+always
+</pos>
+<pos pos="JJ">
+bad
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="FW">
+e.g.
+</pos>
+<pos pos="PP">
+It
+</pos>
+<pos pos="VBZ">
+'s
+</pos>
+<pos pos="NN">
+part
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+secret
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VVG">
+getting
+</pos>
+<pos pos="RB">
+lots
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+sustain
+</pos>
+<pos pos="IN">
+from
+</pos>
+<pos pos="JJ">
+electric
+</pos>
+<pos pos="NNS">
+guitars
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="sub">
+<s_type s_type="sub">
+<pos pos="NN">
+Radio
+</pos>
+<pos pos="NNS">
+stations
+</pos>
+<pos pos="MD">
+should
+</pos>
+<pos pos="VV">
+use
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+judicious
+</pos>
+<pos pos="NN">
+amount
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="NN">
+compression
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+ensure
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+signal
+</pos>
+<pos pos="VVZ">
+fits
+</pos>
+<pos pos="IN">
+within
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="JJ">
+dynamic
+</pos>
+<pos pos="NN">
+range
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+medium
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="DT">
+This
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+classic
+</pos>
+<pos pos="NN">
+case
+</pos>
+<pos pos="IN">
+of
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+demo
+</pos>
+<pos pos="NN">
+mistake
+</pos>
+<pos pos=":">
+:
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="JJ">
+Heavy
+</pos>
+<pos pos="NN">
+compression
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="NN">
+song
+</pos>
+<pos pos="MD">
+may
+</pos>
+<pos pos="VV">
+make
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="VV">
+seem
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+sound
+</pos>
+<pos pos="RBR">
+better
+</pos>
+<pos pos="IN">
+for
+</pos>
+<pos pos="DT">
+a
+</pos>
+<pos pos="JJ">
+single
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="JJ">
+isolated
+</pos>
+<pos pos="NN">
+listen
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<pos pos="WRB">
+When
+</pos>
+<pos pos="NN">
+everything
+</pos>
+<pos pos="VBZ">
+is
+</pos>
+<pos pos="RB">
+highly
+</pos>
+<pos pos="VVN">
+compressed
+</pos>
+<pos pos="DT">
+all
+</pos>
+<pos pos="DT">
+the
+</pos>
+<pos pos="NN">
+time
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="RB">
+though
+</pos>
+<pos pos=",">
+,
+</pos>
+<pos pos="PP">
+it
+</pos>
+<pos pos="MD">
+can
+</pos>
+<pos pos="VV">
+start
+</pos>
+<pos pos="TO">
+to
+</pos>
+<pos pos="VV">
+wear
+</pos>
+<pos pos="IN">
+on
+</pos>
+<pos pos="PP">
+you
+</pos>
+<pos pos="SENT">
+.
+</pos>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
