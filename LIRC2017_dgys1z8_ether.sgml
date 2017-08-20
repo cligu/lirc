@@ -2,1445 +2,2553 @@
 <text_id text_id="LIRC2017_dgys1z8">
 <p p="p">
 <s_type s_type="frag">
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="absolutely">
+<gold_pos gold_pos="RB">
 Absolutely
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 The
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="film">
+<gold_pos gold_pos="NN">
 film
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Snyder">
+<gold_pos gold_pos="NP">
 Snyder
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="show">
+<gold_pos gold_pos="VVD">
 showed
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="studio">
+<gold_pos gold_pos="NN">
 studio
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="exec">
+<gold_pos gold_pos="NNS">
 execs
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="mid">
+<gold_pos gold_pos="JJ">
 mid
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CD">
 <pos pos="CD">
 <lemma lemma="@card@">
+<gold_pos gold_pos="CD">
 <date_when date_when="2015">
 2015
 </date_when>
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBD">
 <pos pos="VBD">
 <lemma lemma="be">
+<gold_pos gold_pos="VBD">
 was
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="without">
+<gold_pos gold_pos="IN">
 without
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="doubt">
+<gold_pos gold_pos="NN">
 doubt
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="original">
+<gold_pos gold_pos="JJ">
 original
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="cut">
+<gold_pos gold_pos="NN">
 cut
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="frag">
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 The
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CD">
 <pos pos="CD">
 <lemma lemma="3">
+<gold_pos gold_pos="CD">
 3
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <sic sic="sic">
 <pos pos="NN">
 <lemma lemma="hour">
+<gold_pos gold_pos="NN">
 hr
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="UE">
+<gold_pos gold_pos="NN">
 UE
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 </p>
 <p p="p">
 <s_type s_type="decl">
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="I">
+<gold_pos gold_pos="PP">
 I
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVP">
 <pos pos="VVP">
 <lemma lemma="guess">
+<gold_pos gold_pos="VVP">
 guess
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="management">
+<gold_pos gold_pos="NN">
 management
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <pos pos="VVD">
 <lemma lemma="need">
+<gold_pos gold_pos="VVD">
 needed
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VB">
 <pos pos="VB">
 <lemma lemma="be">
+<gold_pos gold_pos="VB">
 be
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="part">
+<gold_pos gold_pos="NN">
 part
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="production">
+<gold_pos gold_pos="NN">
 production
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="from">
+<gold_pos gold_pos="IN">
 from
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP$">
 <pos pos="PP$">
 <lemma lemma="its">
+<gold_pos gold_pos="PP$">
 its
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVG">
 <pos pos="VVG">
 <lemma lemma="script">
+<gold_pos gold_pos="VVG">
 scripting
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="stage">
+<gold_pos gold_pos="NNS">
 stages
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Snyder">
+<gold_pos gold_pos="NP">
 Snyder
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="make">
+<gold_pos gold_pos="VVD">
 made
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="film">
+<gold_pos gold_pos="NN">
 film
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="he">
+<gold_pos gold_pos="PP">
 he
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="want">
+<gold_pos gold_pos="VVD">
 wanted
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VV">
 <pos pos="VV">
 <lemma lemma="make">
+<gold_pos gold_pos="VV">
 make
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="he">
+<gold_pos gold_pos="PP">
 He
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="do">
+<gold_pos gold_pos="VVD">
 did
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP$">
 <pos pos="PP$">
 <lemma lemma="his">
+<gold_pos gold_pos="PP$">
 his
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="job">
+<gold_pos gold_pos="NN">
 job
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="but">
+<gold_pos gold_pos="CC">
 but
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="he">
+<gold_pos gold_pos="PP">
 he
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VHD">
 <pos pos="VHD">
 <lemma lemma="have">
+<gold_pos gold_pos="VHD">
 had
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="no">
+<gold_pos gold_pos="DT">
 no
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="oversight">
+<gold_pos gold_pos="NN">
 oversight
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="but">
+<gold_pos gold_pos="CC">
 but
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="even">
+<gold_pos gold_pos="RB">
 even
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="he">
+<gold_pos gold_pos="PP">
 he
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBD">
 <pos pos="VBD">
 <lemma lemma="be">
+<gold_pos gold_pos="VBD">
 was
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="aware">
+<gold_pos gold_pos="JJ">
 aware
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN/that">
 <pos pos="IN/that">
 <lemma lemma="that">
+<gold_pos gold_pos="IN/that">
 that
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CD">
 <pos pos="CD">
 <lemma lemma="3">
+<gold_pos gold_pos="CD">
 3
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <sic sic="sic">
 <pos pos="NN">
 <lemma lemma="hour">
+<gold_pos gold_pos="NN">
 hr
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="cut">
+<gold_pos gold_pos="NN">
 cut
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBZ">
 <pos pos="VBZ">
 <lemma lemma="be">
+<gold_pos gold_pos="VBZ">
 is
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <sic sic="sic">
 <pos pos="RB">
 <lemma lemma="not">
+<gold_pos gold_pos="RB">
 nt
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="necessarily">
+<gold_pos gold_pos="RB">
 necessarily
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="WP">
 <pos pos="WP">
 <lemma lemma="what">
+<gold_pos gold_pos="WP">
 what
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="studio">
+<gold_pos gold_pos="NN">
 studio
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVZ">
 <pos pos="VVZ">
 <lemma lemma="want">
+<gold_pos gold_pos="VVZ">
 wants
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 </p>
 <p p="p">
 <s_type s_type="sub">
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 The
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="studio">
+<gold_pos gold_pos="NN">
 studio
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="MD">
 <pos pos="MD">
 <lemma lemma="should">
+<gold_pos gold_pos="MD">
 should
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <sic sic="sic">
 <pos pos="VH">
 <lemma lemma="have">
+<gold_pos gold_pos="VH">
 ve
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="just">
+<gold_pos gold_pos="RB">
 just
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <pos pos="VVN">
 <lemma lemma="release">
+<gold_pos gold_pos="VVN">
 released
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="UE">
+<gold_pos gold_pos="NN">
 UE
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="sub">
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="it">
+<gold_pos gold_pos="PP">
 It
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="probably">
+<gold_pos gold_pos="RB">
 probably
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="MD">
 <pos pos="MD">
 <lemma lemma="would">
+<gold_pos gold_pos="MD">
 would
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VH">
 <pos pos="VH">
 <lemma lemma="have">
+<gold_pos gold_pos="VH">
 've
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <pos pos="VVN">
 <lemma lemma="make">
+<gold_pos gold_pos="VVN">
 made
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJR">
 <pos pos="JJR">
 <lemma lemma="less">
+<gold_pos gold_pos="JJR">
 less
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="with">
+<gold_pos gold_pos="IN">
 with
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="decrease">
+<gold_pos gold_pos="NN">
 decrease
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="number">
+<gold_pos gold_pos="NN">
 number
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="showing">
+<gold_pos gold_pos="NNS">
 showings
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="but">
+<gold_pos gold_pos="CC">
 but
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="it">
+<gold_pos gold_pos="PP">
 it
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="MD">
 <pos pos="MD">
 <lemma lemma="would">
+<gold_pos gold_pos="MD">
 would
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VH">
 <pos pos="VH">
 <lemma lemma="have">
+<gold_pos gold_pos="VH">
 've
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBN">
 <pos pos="VBN">
 <lemma lemma="be">
+<gold_pos gold_pos="VBN">
 been
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RBR">
 <pos pos="RBR">
 <lemma lemma="more">
+<gold_pos gold_pos="RBR">
 more
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="VVN">
 <lemma lemma="respect">
+<gold_pos gold_pos="VVN">
 respected
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="film">
+<gold_pos gold_pos="NN">
 film
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="and">
+<gold_pos gold_pos="CC">
 and
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="WDT">
 <pos pos="WDT">
 <lemma lemma="that">
+<gold_pos gold_pos="WDT">
 that
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVZ">
 <pos pos="VVZ">
 <lemma lemma="carry">
+<gold_pos gold_pos="VVZ">
 carries
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJR">
 <pos pos="JJR">
 <lemma lemma="more">
+<gold_pos gold_pos="JJR">
 more
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <sic sic="sic">
 <pos pos="NN">
 <lemma lemma="weight">
+<gold_pos gold_pos="NN">
 wait
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="end">
+<gold_pos gold_pos="NN">
 end
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="but">
+<gold_pos gold_pos="CC">
 But
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="movie">
+<gold_pos gold_pos="NN">
 movie
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBD">
 <pos pos="VBD">
 <lemma lemma="be">
+<gold_pos gold_pos="VBD">
 was
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="uneven">
+<gold_pos gold_pos="JJ">
 uneven
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP$">
 <pos pos="PP$">
 <lemma lemma="its">
+<gold_pos gold_pos="PP$">
 its
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="delivery">
+<gold_pos gold_pos="NN">
 delivery
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="action">
+<gold_pos gold_pos="NN">
 action
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="sequence">
+<gold_pos gold_pos="NNS">
 sequences
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="it">
+<gold_pos gold_pos="PP">
 It
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBD">
 <pos pos="VBD">
 <lemma lemma="be">
+<gold_pos gold_pos="VBD">
 was
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="mostly">
+<gold_pos gold_pos="RB">
 mostly
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <sic sic="sic">
 <pos pos="VVN">
 <lemma lemma="contain">
+<gold_pos gold_pos="VVN">
 contained
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="last">
+<gold_pos gold_pos="JJ">
 last
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="act">
+<gold_pos gold_pos="NN">
 act
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="VHG">
 <pos pos="VHG">
 <lemma lemma="have">
+<gold_pos gold_pos="VHG">
 Having
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CD">
 <pos pos="CD">
 <lemma lemma="2">
+<gold_pos gold_pos="CD">
 2
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="hour">
+<gold_pos gold_pos="NN">
 hour
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <pos pos="NN">
 <lemma lemma="set">
+<gold_pos gold_pos="NN">
 set
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RP">
 <pos pos="RP">
 <lemma lemma="up">
+<gold_pos gold_pos="RP">
 up
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="character">
+<gold_pos gold_pos="NN">
 character
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="building">
+<gold_pos gold_pos="NN">
 building
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="and">
+<gold_pos gold_pos="CC">
 and
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="dialogue">
+<gold_pos gold_pos="NN">
 dialogue
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBZ">
 <pos pos="VBZ">
 <lemma lemma="be">
+<gold_pos gold_pos="VBZ">
 is
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="n't">
+<gold_pos gold_pos="RB">
 n't
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJS">
 <pos pos="JJS">
 <lemma lemma="good">
+<gold_pos gold_pos="JJS">
 best
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="strategy">
+<gold_pos gold_pos="NN">
 strategy
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="WRB">
 <pos pos="WRB">
 <lemma lemma="when">
+<gold_pos gold_pos="WRB">
 when
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVG">
 <pos pos="VVG">
 <lemma lemma="market">
+<gold_pos gold_pos="VVG">
 marketing
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NN">
 <lemma lemma="GA">
+<gold_pos gold_pos="NN">
 GA
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="they">
+<gold_pos gold_pos="PP">
 They
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVP">
 <pos pos="VVP">
 <lemma lemma="want">
+<gold_pos gold_pos="VVP">
 want
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VB">
 <pos pos="VB">
 <lemma lemma="be">
+<gold_pos gold_pos="VB">
 be
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVN">
 <pos pos="VVN">
 <lemma lemma="entertain">
+<gold_pos gold_pos="VVN">
 entertained
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="other">
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="WB">
+<gold_pos gold_pos="NP">
 WB
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="probably">
+<gold_pos gold_pos="RB">
 probably
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="see">
+<gold_pos gold_pos="VVD">
 saw
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="this">
+<gold_pos gold_pos="DT">
 this
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="and">
+<gold_pos gold_pos="CC">
 and
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="want">
+<gold_pos gold_pos="VVD">
 wanted
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VV">
 <pos pos="VV">
 <lemma lemma="get">
+<gold_pos gold_pos="VV">
 get
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="action">
+<gold_pos gold_pos="NN">
 action
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="much">
+<gold_pos gold_pos="RB">
 much
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RBR">
 <pos pos="RBR">
 <lemma lemma="quicker">
+<gold_pos gold_pos="RBR">
 quicker
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="even">
+<gold_pos gold_pos="RB">
 even
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="though">
+<gold_pos gold_pos="IN">
 though
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="they">
+<gold_pos gold_pos="PP">
 they
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="MD">
 <pos pos="MD">
 <lemma lemma="would">
+<gold_pos gold_pos="MD">
 would
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <sic sic="sic">
 <pos pos="RB">
 <lemma lemma="not">
+<gold_pos gold_pos="RB">
 nt'
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="VH">
 <pos pos="VH">
 <lemma lemma="have">
+<gold_pos gold_pos="VH">
 have
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VHN">
 <pos pos="VHD">
 <lemma lemma="have">
+<gold_pos gold_pos="VHD">
 had
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="TO">
 <pos pos="TO">
 <lemma lemma="to">
+<gold_pos gold_pos="TO">
 to
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VV">
 <pos pos="VV">
 <lemma lemma="do">
+<gold_pos gold_pos="VV">
 do
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="WDT">
 <pos pos="DT">
 <lemma lemma="that">
+<gold_pos gold_pos="DT">
 that
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VHD">
 <pos pos="VHD">
 <lemma lemma="have">
+<gold_pos gold_pos="VHD">
 had
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="there">
+<gold_pos gold_pos="RB">
 there
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VBN">
 <pos pos="VBN">
 <lemma lemma="be">
+<gold_pos gold_pos="VBN">
 been
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="multiple">
+<gold_pos gold_pos="JJ">
 multiple
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="action">
+<gold_pos gold_pos="NN">
 action
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="sequence">
+<gold_pos gold_pos="NNS">
 sequences
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="throughout">
+<gold_pos gold_pos="IN">
 throughout
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="entire">
+<gold_pos gold_pos="JJ">
 entire
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="film">
+<gold_pos gold_pos="NN">
 film
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="decl">
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="but">
+<gold_pos gold_pos="CC">
 But
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="DT">
 <lemma lemma="all">
+<gold_pos gold_pos="DT">
 all
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="PP">
 <pos pos="PP">
 <lemma lemma="we">
+<gold_pos gold_pos="PP">
 we
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="get">
+<gold_pos gold_pos="VVD">
 got
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="first">
+<gold_pos gold_pos="JJ">
 first
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CD">
 <pos pos="CD">
 <lemma lemma="2">
+<gold_pos gold_pos="CD">
 2
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <sic sic="sic">
 <pos pos="NNS">
 <lemma lemma="hour">
+<gold_pos gold_pos="NNS">
 hrs
+</gold_pos>
 </lemma>
 </pos>
 </sic>
+</tt_pos>
+<tt_pos tt_pos="VBD">
 <pos pos="VBD">
 <lemma lemma="be">
+<gold_pos gold_pos="VBD">
 was
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="short">
+<gold_pos gold_pos="JJ">
 short
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="scene">
+<gold_pos gold_pos="NN">
 scene
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Superman">
+<gold_pos gold_pos="NP">
 Superman
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="in">
+<gold_pos gold_pos="IN">
 in
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Africa">
+<gold_pos gold_pos="NP">
 Africa
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Knightmare">
+<gold_pos gold_pos="NP">
 Knightmare
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Batman">
+<gold_pos gold_pos="NP">
 Batman
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NP">
 <pos pos="NP">
 <lemma lemma="Batmobile">
+<gold_pos gold_pos="NP">
 Batmobile
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="scene">
+<gold_pos gold_pos="NN">
 scene
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos=",">
 <pos pos=",">
 <lemma lemma=",">
+<gold_pos gold_pos=",">
 ,
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="CC">
 <pos pos="CC">
 <lemma lemma="and">
+<gold_pos gold_pos="CC">
 and
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="then">
+<gold_pos gold_pos="RB">
 then
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="non-stop">
+<gold_pos gold_pos="JJ">
 non-stop
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="3rd">
+<gold_pos gold_pos="JJ">
 3rd
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="hour">
+<gold_pos gold_pos="NN">
 hour
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 </p>
 <p p="p">
 <s_type s_type="decl">
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="this">
+<gold_pos gold_pos="DT">
 This
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="film">
+<gold_pos gold_pos="NN">
 film
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVD">
 <pos pos="VVD">
 <lemma lemma="need">
+<gold_pos gold_pos="VVD">
 needed
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="clear">
+<gold_pos gold_pos="JJ">
 clear
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="work">
+<gold_pos gold_pos="NN">
 work
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="from">
+<gold_pos gold_pos="IN">
 from
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="very">
+<gold_pos gold_pos="JJ">
 very
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="beginning">
+<gold_pos gold_pos="NN">
 beginning
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 <s_type s_type="sub">
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 The
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="filmmaker-driven">
+<gold_pos gold_pos="JJ">
 filmmaker-driven
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="approach">
+<gold_pos gold_pos="NN">
 approach
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="MD">
 <pos pos="MD">
 <lemma lemma="can">
+<gold_pos gold_pos="MD">
 can
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="still">
+<gold_pos gold_pos="RB">
 still
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VV">
 <pos pos="VV">
 <lemma lemma="work">
+<gold_pos gold_pos="VV">
 work
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="as">
+<gold_pos gold_pos="RB">
 as
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RB">
 <lemma lemma="long">
+<gold_pos gold_pos="RB">
 long
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="as">
+<gold_pos gold_pos="IN">
 as
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="NNS">
 <lemma lemma="studio">
+<gold_pos gold_pos="NNS">
 studios
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVP">
 <pos pos="VVP">
 <lemma lemma="create">
+<gold_pos gold_pos="VVP">
 create
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="sort">
+<gold_pos gold_pos="NN">
 sort
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="minimal">
+<gold_pos gold_pos="JJ">
 minimal
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="blueprint">
+<gold_pos gold_pos="NN">
 blueprint
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="for">
+<gold_pos gold_pos="IN">
 for
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="the">
+<gold_pos gold_pos="DT">
 the
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="director">
+<gold_pos gold_pos="NN">
 director
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN/that">
 <pos pos="WDT">
 <lemma lemma="that">
+<gold_pos gold_pos="WDT">
 that
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="sort">
+<gold_pos gold_pos="NN">
 sort
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="of">
+<gold_pos gold_pos="IN">
 of
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NNS">
 <pos pos="VVZ">
 <lemma lemma="match">
+<gold_pos gold_pos="VVZ">
 matches
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="RB">
 <pos pos="RP">
 <lemma lemma="up">
+<gold_pos gold_pos="RP">
 up
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="IN">
 <pos pos="IN">
 <lemma lemma="with">
+<gold_pos gold_pos="IN">
 with
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="WP">
 <pos pos="WP">
 <lemma lemma="what">
+<gold_pos gold_pos="WP">
 what
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="VVZ">
 <pos pos="VVZ">
 <lemma lemma="entertain">
+<gold_pos gold_pos="VVZ">
 entertains
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="DT">
 <pos pos="DT">
 <lemma lemma="a">
+<gold_pos gold_pos="DT">
 a
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="JJ">
 <pos pos="JJ">
 <lemma lemma="general">
+<gold_pos gold_pos="JJ">
 general
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="NN">
 <pos pos="NN">
 <lemma lemma="audience">
+<gold_pos gold_pos="NN">
 audience
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
+<tt_pos tt_pos="SENT">
 <pos pos="SENT">
 <lemma lemma=".">
+<gold_pos gold_pos="SENT">
 .
+</gold_pos>
 </lemma>
 </pos>
+</tt_pos>
 </s_type>
 </p>
 </text_id>
